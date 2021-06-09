@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "593390469911",
+    "project_id": "connectfire-8cd2c",
+    "storage_bucket": "connectfire-8cd2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593390469911:android:9b0c9daf6675a43ac7ad52",
+        "android_client_info": {
+          "package_name": "com.example.connectfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593390469911-vq48igrt22sodr8qsocfp3uea6v1j7oo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJX0oo9XMKnPR0I3lpRs8U0Nae0POTQWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593390469911-vq48igrt22sodr8qsocfp3uea6v1j7oo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
